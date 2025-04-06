@@ -12,15 +12,15 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Matheus Henrique Moreira
+- Matricula: 878528
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: Para esse projeto decidi fazer uma home-page simples e fácil de entender, para que pessoas de todas as idades possam compreender seu funcionamento, mas mesmo sendo simples, consiga abranger todos os componentes e funcionalidades esperadas na proposta do projeto. Agora, adicionando a parte de JavaScript.
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<index.png>)
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<detalhes.png>)
